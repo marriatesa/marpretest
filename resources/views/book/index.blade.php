@@ -5,7 +5,7 @@
 @section('page-title','Book')
 
 @section('dashboard-content')
-    <a href="#" class="btn btn-primary">
+    <a href="book/create" class="btn btn-primary">
         Tambah
     </a>
     <table class="table">
